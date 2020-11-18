@@ -41,7 +41,7 @@ body {
   margin: 70px auto 105px;
   height: 700px;
   width: 95%;
-  background: url(../img/mission-background.webp) no-repeat center;
+  background: url(img/mission-background.webp) no-repeat center;
 }
 .title-row {
   height: 100px;
@@ -83,7 +83,7 @@ body {
   width: 95%;
   height: 500px;
   margin: 20px auto;
-  background: url(../img/locations-background.jpg) no-repeat center;
+  background: url(img/locations-background.jpg) no-repeat center;
 }
 .title-page-3 {
   text-align: center;
